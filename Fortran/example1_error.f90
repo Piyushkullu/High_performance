@@ -1,7 +1,7 @@
 
 program example1
 
-!    implicit none
+    implicit none
     real (kind=8) :: x,y,z
 
     x = 3.d0
